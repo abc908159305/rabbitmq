@@ -1,0 +1,11 @@
+server:
+  port: 8833
+spring:
+  application:
+    name: rabbitmq-springboot
+  rabbitmq:
+    host: www.siyemao.xyz
+    port: 5672
+    username: siye
+    password: siye
+    virtual-host: /mao
